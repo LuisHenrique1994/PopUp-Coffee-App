@@ -1,4 +1,4 @@
-This is LHTN app miniproject
+# This is a PopUp Coffe shop app project
 
-With the app you will be able to see, edit, update and delete a list of products and couriers also.
-You will be able to place orders to be delivered to your prefered address.# LuisHenrique1994
+This app is able to display, edit, update and delete a list of products, couriers and orders.
+You will be able to place orders to be delivered to your prefered address.
